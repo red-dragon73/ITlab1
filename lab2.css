@@ -1,0 +1,50 @@
+h2 {
+	color:red;
+	text-align:center;
+	background-color:grey;
+	
+}
+
+#first {
+	color: rgb(0,0,100);
+	font-family:times new roman;
+	font-size:large;
+	font-weight:bolder;
+	text-transform:capitalize;
+	text-decoration: underline;
+	background-image:url("index1.jpeg");
+	background-repeat:repeat;
+	border:10px outset red;
+	
+}
+
+body{
+	background-image:url("dims.jpeg");
+	background-attachment:fixed;
+}
+
+#second {
+	letter-spacing: 5px;
+	word-spacing:4em;
+	text-indent:2cm;
+	text-transform:uppercase;
+	border:solid yellow;
+	background-repeat:repeat-y;
+	text-align:left;	
+	font-size:small;
+	background-color:black;
+	color:yellow;
+	text-shadow:4px 4px 8px red;
+
+}
+#third {
+	font-style:italic;
+	text-shadow:6px 6px 12px yellow;
+}
+
+ul li {
+	color:blue;
+	background-color: yellow;
+	width:8%;
+}
+

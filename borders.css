@@ -1,0 +1,52 @@
+div.first{
+color:blue;
+width:1000;
+padding:10px;
+background-color:yellow;
+border:solid red;
+border-width:10px;
+margin:5px;
+float:left;
+}
+
+div.second{
+color:grey;
+margin:20px;
+background-color:purple;
+width:100;
+float:left;
+border:dotted white;
+}
+
+div.third{
+float:left;
+width:1000px;
+background-color:white;
+text-align:center;
+}
+
+
+
+a:link {
+  color: red;
+  padding:14px;
+display:inline-block;
+}
+
+
+a:visited {
+  color: green;
+}
+
+
+a:hover {
+  color: hotpink;
+}
+
+
+a:active {
+  color: blue;
+}
+body{
+background-color:black;
+}

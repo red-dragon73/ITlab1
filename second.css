@@ -1,0 +1,38 @@
+
+h3{
+	color:yellow;
+	background-color:black;
+}
+div.About
+{
+color:yellow;
+background-color:grey;
+width:300;
+height:250;
+float:left;
+border-style: solid;
+}
+
+#login
+{
+	float:left;
+	width:500;
+	background-color:green;
+	color:white;
+	height:250;
+	border-style:solid;
+	background-image:url(sbi.jpg);
+}
+
+div.logo{
+	border-style:solid;
+	
+}
+*{
+	font-family: times new roman;
+	font-size: 15px;
+}
+body{
+background-image:url(kit-harington-got.jpg);
+}	
+	
